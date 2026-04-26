@@ -22,3 +22,10 @@ Added visual language around paper, field notes, stamps, and margin annotations 
 
 ## Post-visual-critique revision
 Visual critique said the hero artifact was slightly dense and CTA language was poetic. Revised before push: changed CTA to 'Text your messy workflow', changed the artifact label to 'Owner-ready brief', shortened the brief headline, and removed one list item from the hero document so it scans faster.
+
+
+## Finish pass — nav + motion
+- Nav/header upgraded from static field-document bar to a sticky field-file control with scroll-constrict behavior, active section state, inward red registration marks, stable height, and mobile-preserved phone visibility.
+- Motion system upgraded with meaning: brief sheet enters like a delivered document, decision rows sequence in, approval underline/stamp lands after the brief content, ticker scan implies signal intake, and method rail pulse implies handoff to human approval.
+- Visual QA feedback: first pass nav/CTA felt tight on mobile and desktop CTA sat too low. Revised mobile nav sizing, reduced headline scale, widened hero copy column, tightened action spacing, and rechecked 375/768/1440 no-overflow.
+- Lowest-scoring section after this pass: mobile hero density. Improved by reducing mobile headline scale, centering CTA text, splitting microcopy rhythm, and preserving the proof artifact below instead of forcing it above the first fold.
